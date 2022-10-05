@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krashm&label=Profile%20views&color=0e75b6&style=flat" alt="krashm" /> </p>
 
-- 🔭 I’m currently working on [Minesweeper 2.0](https://github.com/KrashM/Minesweeper_2.0)
+- 🔭 I’m currently working on teaching [Introduction to Programming](https://github.com/KrashM/Introduction_To_Programming)
 
-- 🌱 I’m currently learning **C++ and design principles**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **anything interesting**
 

@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krashm&label=Profile%20views&color=0e75b6&style=flat" alt="krashm" /> </p>
 
-- 🔭 I’m currently working on teaching [Object Oriented Programming](https://github.com/KrashM/Object_Oriented_Programming)
+- 🔭 I’m currently working on teaching [Introduction to programming](https://github.com/KrashM/Introduction_To_Programming)
 
-- 🌱 I’m currently learning **Deep Learning with Tensorflow**
+- 🌱 I’m currently learning **Bridge**
 
 - 💬 Ask me about **anything interesting**
 
